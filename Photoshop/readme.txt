@@ -68,4 +68,6 @@ Gradients:
     -Choos a layout
     -customize colors in it
     -change blend if applying on whole image
+
+/* found a bug where some gb96 was using my account for commits */
     
