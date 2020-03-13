@@ -6,6 +6,7 @@ void printResults(int A[], int n){
         cout << A[i] << endl;
     }
 }
+
 void InsertionSort(int A[], int n){
     for(int i=1; i<n; i++){
         int j = i-1;
