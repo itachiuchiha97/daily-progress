@@ -30,7 +30,6 @@ void BubbleSort(int A[], int n){
 
 }
 
-
 int main(){
     int A[] = {3,7,9,10,6,5,12,4,11,2};
     int n = 10;
